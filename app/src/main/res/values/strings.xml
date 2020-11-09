@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TU WINWIN2</string>
+    <string name="text_home">หน้าหลัก</string>
+    <string name="tu">TU</string>
+    <string name="winwin">WINWIN</string>
+    <string name="id">ID</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">ออกจากระบบ</string>
+    <string name="win_point">ข้อมูลและคะแนนสะสมของตนเอง</string>
+    <string name="value_name_win">XXXXXX XXXXXXX</string>
+    <string name="text_number_win">หมายเลขเสื้อวินมอเตอร์ไซต์</string>
+    <string name="value_number_win">00</string>
+    <string name="text_satisfaction_win">คะแนนความพึงพอใจที่ใช้บริการ</string>
+    <string name="value_satisfaction_win">00</string>
+    <string name="text_user">ผู้ใช้บริการ</string>
+    <string name="text_admin">ผู้ดูแลระบบ</string>
+    <string name="text_win">วินมอเตอร์ไซต์</string>
+    <string name="pic">pic</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
